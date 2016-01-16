@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -19,25 +18,13 @@
      id="defs4" />
 
 	<style type="text/css">
-	@font-face{
-		font-family: Montserrat;
-		font-style: normal;
-		font-weight: 400;
-		src: local('Montserrat-Regular'), url('fonts/poiret-one.woff2') format('truetype');
-	}
-	
-	@font-face{
-		font-family: Montserrat;
-		font-style: normal;
-		font-weight: 700;
-		src: local('Montserrat-Bold'), url('fonts/poiret-one.woff2') format('truetype');
-	}
+
 
 	@font-face{
 		font-family: Mgobll;
 		font-style: normal;
 		font-weight: 700;
-		src: local('Montserrat-Bold'), url('fonts/mgobll.woff2') format('truetype');
+		src: url('fonts/mgobll.woff2') format('woff2');
 	}
 	
 	.title{
@@ -48,7 +35,8 @@
 		font-stretch:normal;
 		text-align:left;
 		font-family:Mgobll;
-	}
+    fill: #dede4e;
+  }
 	</style>
 
   
